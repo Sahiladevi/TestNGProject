@@ -52,6 +52,7 @@ public class FacebookLoginUsingExcelValues {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+		Reporter.log("DataProvider Method",true);
 		driver.close();
 	}
 
